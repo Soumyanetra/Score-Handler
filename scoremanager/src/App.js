@@ -221,9 +221,9 @@ class App extends Component{
     this.setState({command:event.target.value.toLowerCase()})
   }
   handelSave=()=>{
-    axios.post('http://localhost:5000/create-pdf',this.state.counters)
+    axios.post('/create-pdf',this.state.counters)
       .then(
-        ()=>axios.get('http://localhost:5000/fetch-pdf',{responseType:'blob'})
+        ()=>axios.get('/fetch-pdf',{responseType:'blob'})
       )
       .then(
         (res)=>{
