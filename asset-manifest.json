@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Score-Handler/static/css/main.c3715ebb.chunk.css",
-    "main.js": "/Score-Handler/static/js/main.359f3fb7.chunk.js",
-    "main.js.map": "/Score-Handler/static/js/main.359f3fb7.chunk.js.map",
+    "main.js": "/Score-Handler/static/js/main.06d6c8f8.chunk.js",
+    "main.js.map": "/Score-Handler/static/js/main.06d6c8f8.chunk.js.map",
     "runtime-main.js": "/Score-Handler/static/js/runtime-main.899f5b96.js",
     "runtime-main.js.map": "/Score-Handler/static/js/runtime-main.899f5b96.js.map",
     "static/js/2.71e230f2.chunk.js": "/Score-Handler/static/js/2.71e230f2.chunk.js",
     "static/js/2.71e230f2.chunk.js.map": "/Score-Handler/static/js/2.71e230f2.chunk.js.map",
     "index.html": "/Score-Handler/index.html",
-    "precache-manifest.0be607cba105c07e9dddc20251baac30.js": "/Score-Handler/precache-manifest.0be607cba105c07e9dddc20251baac30.js",
+    "precache-manifest.dad6a0b0dee1b003f213d705e33e5dc9.js": "/Score-Handler/precache-manifest.dad6a0b0dee1b003f213d705e33e5dc9.js",
     "service-worker.js": "/Score-Handler/service-worker.js",
     "static/css/main.c3715ebb.chunk.css.map": "/Score-Handler/static/css/main.c3715ebb.chunk.css.map",
     "static/js/2.71e230f2.chunk.js.LICENSE.txt": "/Score-Handler/static/js/2.71e230f2.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.899f5b96.js",
     "static/js/2.71e230f2.chunk.js",
     "static/css/main.c3715ebb.chunk.css",
-    "static/js/main.359f3fb7.chunk.js"
+    "static/js/main.06d6c8f8.chunk.js"
   ]
 }
